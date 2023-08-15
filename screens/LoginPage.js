@@ -2,7 +2,7 @@ import { View, Text, StyleSheet, TouchableOpacity } from 'react-native'
 import React from 'react'
 
 
-
+//kohomada
 export default Dinithi =(props) =>{
   return (
     <View>
